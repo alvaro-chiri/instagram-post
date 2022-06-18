@@ -18,7 +18,9 @@ header {
 }
 
 .postheader {
-    padding: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
     height: 65px;
     width: 100%;
 }
@@ -45,7 +47,7 @@ h2 {
 
 #htmlicon {
     font-size: xx-large;
-    width: 7%;
+    width: 30px;
     float: left;
 }
 
@@ -58,7 +60,7 @@ h2 {
 #dots {
     float: right;
     font-size: xx-large;
-    width: 5%;
+    width: 15px;
     height: fit-content;
 }
 
